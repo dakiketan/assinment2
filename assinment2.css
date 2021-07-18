@@ -1,0 +1,82 @@
+.main-banner{
+    display: inline-flex;
+    width: 800px;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 550px;
+    margin-bottom: 50px;
+
+}
+.primary-txt{
+    font-size: 35px;
+    margin-right: 80px;
+}
+.secondary-txt{
+    font-size: 28px;
+}
+.Main-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.task-list{
+    display: inline;
+    text-align: center;
+    border: 2px solid coral;
+    width: 150px;
+    height: 200px;
+    border-radius: 12px;
+}
+.trip-price{
+    color: coral;
+}
+.complete-task{
+    margin-top: 20px;
+    color: coral;
+    text-decoration: coral line-through;
+}
+/* another pages */                 
+
+.Add-list{
+    /* display: flexbox ; */
+    /* justify-content: space-around; */
+    text-align: center;
+    border: 2px solid coral;
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+/* tpt page */
+.tpt{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.heding-tpt{
+    font-size: 20px;
+    text-align: center;
+}
+
+/* add-item */
+
+.add-item{
+    border:2px solid coral;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+/* add-list-container main page */
+
+.add-list-container{
+    margin-top: 100px;
+    margin-left: 570px;
+}
+
+
+/* both page addlis or item */
+
+h3{
+    color: coral;
+}
